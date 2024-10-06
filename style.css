@@ -55,4 +55,8 @@ img{
     margin-top: 70px;
     padding: 10px;
     font-weight: 800;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
