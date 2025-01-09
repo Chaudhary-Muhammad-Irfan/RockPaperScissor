@@ -99,5 +99,8 @@ const showWinner = (winner , userChoice , compChoice) =>{
         uScore.innerHTML=userScore;
         cScore.innerHTML=CompuScore;
         message.style.backgroundColor="red";
+
+
+        
     }
 }
